@@ -20,7 +20,11 @@
 * CountryPicker (Mobven)
 * SPM for packages
 # Demo
-![video_alt](https://github.com/JeremyChew123/Online-Groceries-mvp/blob/main/Online%20Groceries%20app.mov)
+![video_alt](https://github.dev/JeremyChew123/Online-Groceries-mvp/blob/main/Online%20Groceries%20app.mov)
+
+
+https://github.com/user-attachments/assets/a71b84e7-a4dc-472e-a1c4-046a2e5a1c1c
+
 
 # I'm most proud of...
 I have always wanted to create my own app but am not sure about the backend/authenticate users. Although common knowledge, it was my first time diving in to Google Firebase. To my surprise, there were good documentations that helped me with process of authentication. I made a lot of mistakes doing this but I guess it is part of the learning process.
